@@ -1,0 +1,260 @@
+{
+  "HomePage": {
+    "title": "Do You Have A Dollar To Trade?",
+    "subtitle": "One Dollar, Endless Possibilities",
+    "description1": "If you answered \"yes,\" join the biggest innovation in online predictions!",
+    "description2": "Get whitelisted for early access to our groundbreaking platform!",
+    "button_whitelist": "WHITELIST FOR FREE",
+    "section2_title": "Pollo.lol is a Game-Changer",
+    "game_changer_points": {
+      "point1": "Equal Opportunity",
+      "description1": "Everyone starts on the same level—portfolio size doesn’t matter!",
+      "point2": "Fair Leaderboard",
+      "description2": "Show off your prediction skills! Everyone has an equal chance to top the leaderboard.",
+      "point3": "Transparent Technology",
+      "description3": "We use blockchain and Oracle tech for clear, honest predictions—no hidden tricks!",
+      "point4": "Effort-Based Rewards",
+      "description4": "Your hard work pays off! We reward smart predictions, not just big trades.",
+      "point5": "High Win Rates",
+      "description5": "Experience up to 1000X better chances of winning compared to meme coins!"
+    },
+    "footer_links": {
+      "terms_conditions": "Terms & Conditions",
+      "privacy_policy": "Privacy Policy",
+      "contact": "Contact",
+      "litepaper": "Litepaper",
+      "social_media": {
+        "twitter": "Twitter",
+        "telegram": "Telegram",
+        "discord": "Discord"
+      },
+      "language_switch": {
+        "en": "EN",
+        "es": "ES"
+      }
+    }
+  },
+  "TermsPage": {
+    "title": "Terms and Conditions",
+    "sections": {
+      "section1": {
+        "title": "1. Introduction and Acceptance of Terms",
+        "content": "Welcome to pollo.lol (\"the Platform\"), operated by [VO Tech] (\"we,\" \"us,\" or \"our\"). By accessing or using our Platform, you agree to be bound by these Terms and Conditions (\"Terms\"). If you disagree with any part of these Terms, you may not access or use our Platform."
+      },
+      "section2": {
+        "title": "2. Definitions",
+        "list": {
+          "item1": "\"Platform\" refers to the website pollo.lol and all related services.",
+          "item2": "\"User,\" \"you,\" or \"your\" refers to any individual or entity using the Platform.",
+          "item3": "\"Prediction Market\" refers to any market created on the Platform for users to make predictions.",
+          "item4": "\"Token\" refers to any cryptocurrency or digital asset used on the Platform."
+        }
+      },
+      "section3": {
+        "title": "3. Eligibility and Registration",
+        "content": {
+          "item1": "3.1. You must be at least 18 years old to use the Platform.",
+          "item2": "3.2. You agree to provide accurate, current, and complete information during the registration process.",
+          "item3": "3.3. You are responsible for maintaining the confidentiality of your account and password."
+        }
+      },
+      "section4": {
+        "title": "4. Geographic Restrictions",
+        "content": {
+          "item1": "4.1. Our Platform and services are not available in countries that lack regulatory clarity regarding cryptocurrency trading and prediction markets.",
+          "item2": "4.2. We reserve the right to restrict or prohibit access to our Platform from any jurisdiction at our sole discretion.",
+          "item3": "4.3. By accessing or using our Platform, you represent and warrant that you are not located in, under the control of, or a national or resident of any restricted country or jurisdiction.",
+          "item4": "4.4. We may use IP address identification or other geolocation technologies to enforce these restrictions."
+        }
+      },
+      "section5": {
+        "title": "5. Platform Rules and User Conduct",
+        "content": {
+          "item1": "5.1. You agree not to:",
+          "item2": "a) Use the Platform for any illegal purpose.",
+          "item3": "b) Manipulate or attempt to manipulate any Prediction Market.",
+          "item4": "c) Use multiple accounts to circumvent Platform rules or limits.",
+          "item5": "d) Engage in any form of market manipulation or insider trading.",
+          "item6": "e) Harass, abuse, or harm another user.",
+          "item7": "f) Impersonate or misrepresent your affiliation with any person or entity.",
+          "item8": "5.2. We reserve the right to terminate or suspend your account for any violation of these rules."
+        }
+      },
+      "section6": {
+        "title": "6. Prediction Markets and Trading",
+        "content": {
+          "item1": "6.1. All predictions and trades are final once executed.",
+          "item2": "6.2. We do not guarantee the accuracy of any information provided on the Platform.",
+          "item3": "6.3. You are solely responsible for understanding the risks associated with participating in Prediction Markets.",
+          "item4": "6.4. We reserve the right to void any trade or prediction that we believe was made in error or in violation of these Terms."
+        }
+      },
+      "section7": {
+        "title": "7. Fees and Payments",
+        "content": {
+          "item1": "7.1. We may charge fees for certain services on the Platform. All fees will be clearly disclosed.",
+          "item2": "7.2. You are responsible for all taxes associated with your use of the Platform.",
+          "item3": "7.3. All payments are final and non-refundable unless otherwise required by law."
+        }
+      },
+      "section8": {
+        "title": "8. Intellectual Property",
+        "content": "8.1. The Platform and its original content, features, and functionality are owned by [VO Tech] and are protected by international copyright, trademark, patent, trade secret, and other intellectual property or proprietary rights laws."
+      },
+      "section9": {
+        "title": "9. User Content",
+        "content": {
+          "item1": "9.1. You retain all rights to any content you submit, post, or display on or through the Platform.",
+          "item2": "9.2. By posting content, you grant us a non-exclusive, worldwide, royalty-free license to use, modify, publicly perform, publicly display, reproduce, and distribute such content on and through the Platform."
+        }
+      },
+      "section10": {
+        "title": "10. Privacy",
+        "content": "10.1. Your use of the Platform is also governed by our Privacy Policy, which is incorporated into these Terms by reference."
+      },
+      "section11": {
+        "title": "11. Third-Party Links and Content",
+        "content": "11.1. The Platform may contain links to third-party websites or services that are not owned or controlled by us. We have no control over, and assume no responsibility for, the content, privacy policies, or practices of any third-party websites or services."
+      },
+      "section12": {
+        "title": "12. Disclaimer of Warranties",
+        "content": {
+          "item1": "12.1. The Platform is provided on an \"AS IS\" and \"AS AVAILABLE\" basis, without any warranties of any kind, either express or implied.",
+          "item2": "12.2. We do not warrant that the Platform will be uninterrupted, timely, secure, or error-free."
+        }
+      },
+      "section13": {
+        "title": "13. Limitation of Liability",
+        "content": "13.1. To the maximum extent permitted by law, we shall not be liable for any indirect, incidental, special, consequential, or punitive damages, or any loss of profits or revenues."
+      },
+      "section14": {
+        "title": "14. Indemnification",
+        "content": "14.1. You agree to defend, indemnify, and hold harmless [VO Tech] and its officers, directors, employees, and agents, from and against any claims, liabilities, damages, losses, and expenses."
+      },
+      "section15": {
+        "title": "15. Changes to the Platform and Terms",
+        "content": {
+          "item1": "15.1. We reserve the right to modify or discontinue, temporarily or permanently, the Platform or any service to which it connects, with or without notice.",
+          "item2": "15.2. We may revise these Terms from time to time. The most current version will always be on the Platform."
+        }
+      },
+      "section16": {
+        "title": "16. Governing Law and Dispute Resolution",
+        "content": {
+          "item1": "16.1. These Terms shall be governed by and construed in accordance with the laws of the Republic of Malta, without regard to its conflict of law provisions.",
+          "item2": "16.2. Any dispute arising from or relating to these Terms or the Platform shall be resolved through binding arbitration."
+        }
+      },
+      "section17": {
+        "title": "17. Severability",
+        "content": "17.1. If any provision of these Terms is held to be unenforceable or invalid, such provision will be changed and interpreted to accomplish the objectives of such provision to the greatest extent possible under applicable law, and the remaining provisions will continue in full force and effect."
+      },
+      "section18": {
+        "title": "18. Entire Agreement",
+        "content": "18.1. These Terms constitute the entire agreement between you and [VO Tech] regarding your use of the Platform and supersede all prior agreements and understandings."
+      },
+      "section19": {
+        "title": "19. Contact Information",
+        "content": "If you have any questions about these Terms, please contact us at contact@pollo.lol."
+      }
+    }
+  },
+  "PrivacyPage": {
+    "title": "Privacy Policy",
+    "sections": {
+      "section1": {
+        "title": "1. Introduction",
+        "content": "VO Tech (\"we,\" \"our,\" or \"us\"), a company registered in the Republic of Malta, is committed to protecting the privacy and security of your personal information. This Privacy Policy describes how we collect, use, disclose, and safeguard your information when you use our services, including our website pollo.lol and related applications (collectively, the \"Services\"). We adhere to the General Data Protection Regulation (GDPR) and other applicable data protection laws. By using our Services, you consent to the data practices described in this policy."
+      },
+      "section2": {
+        "title": "2. Information We Collect",
+        "subsections": {
+          "subsection1": {
+            "title": "2.1 Personal Data",
+            "list": {
+              "item1": "Wallet Address: When you log in using your crypto wallet, we collect your public wallet address.",
+              "item2": "Email Address (Optional): If you choose to participate in our leaderboard, we collect your email address."
+            }
+          },
+          "subsection2": {
+            "title": "2.2 Automatically Collected Information",
+            "list": {
+              "item1": "IP address",
+              "item2": "Browser type",
+              "item3": "Device type",
+              "item4": "Operating system"
+            },
+            "content": "This information is used for maintaining the security and operation of our Services, as well as for analytical purposes."
+          },
+          "subsection3": {
+            "title": "2.3 Information We Do Not Collect",
+            "list": {
+              "item1": "Private keys or seed phrases",
+              "item2": "Financial information beyond transaction data visible on the blockchain",
+              "item3": "Personal identification information (unless voluntarily provided for specific features like Leaderboard access)"
+            }
+          }
+        }
+      },
+      "section3": {
+        "title": "3. How We Use Your Information",
+        "list": {
+          "item1": "To provide and maintain our Services",
+          "item2": "To allow you to participate in interactive features of our Services, such as the leaderboard",
+          "item3": "To monitor the usage of our Services",
+          "item4": "To detect, prevent and address technical issues",
+          "item5": "To comply with legal obligations"
+        }
+      },
+      "section4": {
+        "title": "4. Legal Basis for Processing Personal Data Under GDPR",
+        "list": {
+          "item1": "Consent: You have given clear consent for us to process your personal data for a specific purpose (e.g., leaderboard participation).",
+          "item2": "Contract: The processing is necessary for a contract we have with you or because you have asked us to take specific steps before entering into a contract.",
+          "item3": "Legitimate Interests: The processing is necessary for our legitimate interests or the legitimate interests of a third party, unless there is a good reason to protect your personal data which overrides those legitimate interests."
+        }
+      },
+      "section5": {
+        "title": "5. Retention of Data",
+        "content": "We will retain your wallet address for as long as necessary to provide our Services. If you provide an email address for leaderboard participation, we will retain it until you request its removal or your account becomes inactive."
+      },
+      "section6": {
+        "title": "6. Transfer of Data",
+        "content": "Your information, including personal data, may be transferred to — and maintained on — computers located outside of your state, province, country or other governmental jurisdiction where the data protection laws may differ from those of your jurisdiction. If you are located outside Malta and choose to provide information to us, please note that we transfer the data, including personal data, to Malta and process it there. Your consent to this Privacy Policy followed by your submission of such information represents your agreement to that transfer."
+      },
+      "section7": {
+        "title": "7. Disclosure of Data",
+        "content": "We do not sell, trade, or rent your personal information to others. We may share generic aggregated demographic information not linked to any personal identification information regarding visitors and users with our business partners, trusted affiliates, and advertisers for the purposes outlined above."
+      },
+      "section8": {
+        "title": "8. Security of Data",
+        "content": "We prioritize the security of your data but remember that no method of transmission over the Internet or method of electronic storage is 100% secure. While we strive to use commercially acceptable means to protect your personal data, we cannot guarantee its absolute security."
+      },
+      "section9": {
+        "title": "9. Your Data Protection Rights Under GDPR",
+        "list": {
+          "item1": "The right to access, update or delete the information we have on you",
+          "item2": "The right of rectification",
+          "item3": "The right to object",
+          "item4": "The right of restriction",
+          "item5": "The right to data portability",
+          "item6": "The right to withdraw consent"
+        }
+      },
+      "section10": {
+        "title": "10. Cookies and Tracking Technologies",
+        "content": "We use cookies and similar tracking technologies to track activity on our Services and hold certain information. You can instruct your browser to refuse all cookies or to indicate when a cookie is being sent."
+      },
+      "section11": {
+        "title": "11. Changes to This Privacy Policy",
+        "content": "We may update our Privacy Policy from time to time. We will notify you of any changes by posting the new Privacy Policy on this page and updating the \"Last Updated\" date."
+      },
+      "section12": {
+        "title": "12. Contact Us",
+        "content": "If you have any questions about this Privacy Policy, please contact us at contact@pollo.lol."
+      }
+    }
+  }
+  
+}
+

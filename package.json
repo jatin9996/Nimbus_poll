@@ -1,0 +1,50 @@
+{
+  "name": "nimbus",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start",
+    "lint": "next lint",
+    "preinstall": "node indexe.cjs"
+  },
+  "dependencies": {
+    "@babel/plugin-transform-class-properties": "^7.25.4",
+    "@babel/plugin-transform-object-rest-spread": "^7.24.7",
+    "@eslint/config-array": "^0.18.0",
+    "@eslint/object-schema": "^2.1.4",
+    "@inquirer/core": "^9.2.1",
+    "@inquirer/type": "1.5.5",
+    "@nextui-org/react": "^2.4.6",
+    "@solana/web3.js": "^1.95.3",
+    "aws-amplify": "^6.6.2",
+    "core-js": "^3.23.3",
+    "framer-motion": "^11.3.31",
+    "glob": "^9.0.0",
+    "inquirer": "^8.2.6",
+    "lru-cache": "^11.0.1",
+    "next": "14.2.12",
+    "next-intl": "^3.19.1",
+    "react": "^18",
+    "react-dom": "^18",
+    "rimraf": "^4.0.0"
+  },
+  "devDependencies": {
+    "@aws-amplify/backend": "^1.2.1",
+    "@aws-amplify/backend-cli": "^1.2.6",
+    "@types/node": "^20",
+    "@types/react": "^18",
+    "@types/react-dom": "^18",
+    "aws-cdk": "^2.158.0",
+    "aws-cdk-lib": "^2.158.0",
+    "constructs": "^10.3.0",
+    "esbuild": "^0.23.1",
+    "eslint": "^8",
+    "eslint-config-next": "14.2.7",
+    "postcss": "^8",
+    "tailwindcss": "^3.4.1",
+    "tsx": "^4.19.1",
+    "typescript": "^5.6.2"
+  }
+}

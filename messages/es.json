@@ -1,0 +1,258 @@
+{
+  "HomePage": {
+    "title": "¿Tienes Un Dólar Para Apostar?",
+    "subtitle": "Un Dólar, Posibilidades Infinitas",
+    "description1": "Si respondiste \"sí\", únete a la mayor innovación en predicciones en línea!",
+    "description2": "¡Apúntate en la lista blanca para obtener acceso temprano a nuestra innovadora plataforma!",
+    "button_whitelist": "APUNTARSE AQUÍ GRATIS",
+    "section2_title": "Pollo.lol es un Cambio Radical",
+    "game_changer_points": {
+      "point1": "Igualdad de Oportunidades",
+      "description1": "¡Todos comienzan en el mismo nivel—el tamaño del portafolio no importa!",
+      "point2": "Clasificación Justa",
+      "description2": "¡Demuestra tus habilidades de predicción! Todos tienen la misma oportunidad de encabezar la clasificación.",
+      "point3": "Tecnología Transparente",
+      "description3": "Utilizamos tecnología blockchain y Oracle para predicciones claras y honestas, ¡sin trucos ocultos!",
+      "point4": "Recompensas Basadas en el Esfuerzo",
+      "description4": "¡Tu esfuerzo vale la pena! Recompensamos predicciones inteligentes, no solo grandes transacciones.",
+      "point5": "Altas Tasas de Ganancia",
+      "description5": "¡Experimenta hasta 1000X mejores posibilidades de ganar en comparación con las monedas meme!"
+    },
+    "footer_links": {
+      "terms_conditions": "Términos y Condiciones",
+      "privacy_policy": "Política de Privacidad",
+      "contact": "Contáctanos",
+      "litepaper": "Litepaper",
+      "social_media": {
+        "twitter": "Twitter",
+        "telegram": "Telegram",
+        "discord": "Discord"
+      },
+      "language_switch": {
+        "en": "EN",
+        "es": "ES"
+      }
+    }
+  },
+  "TermsPage": {
+    "title": "Términos y Condiciones",
+    "sections": {
+      "section1": {
+        "title": "1. Introducción y Aceptación de los Términos",
+        "content": "Bienvenido a pollo.lol (\"la Plataforma\"), operada por [VO Tech] (\"nosotros,\" \"nuestro\"). Al acceder o utilizar nuestra Plataforma, usted acepta estar sujeto a estos Términos y Condiciones (\"Términos\"). Si no está de acuerdo con alguna parte de estos Términos, no podrá acceder o utilizar nuestra Plataforma."
+      },
+      "section2": {
+        "title": "2. Definiciones",
+        "list": {
+          "item1": "\"Plataforma\" se refiere al sitio web pollo.lol y a todos los servicios relacionados.",
+          "item2": "\"Usuario,\" \"usted\" o \"su\" se refiere a cualquier persona o entidad que utilice la Plataforma.",
+          "item3": "\"Mercado de Predicciones\" se refiere a cualquier mercado creado en la Plataforma para que los usuarios realicen predicciones.",
+          "item4": "\"Token\" se refiere a cualquier criptomoneda o activo digital utilizado en la Plataforma."
+        }
+      },
+      "section3": {
+        "title": "3. Elegibilidad y Registro",
+        "content": {
+          "item1": "3.1. Debe tener al menos 18 años para utilizar la Plataforma.",
+          "item2": "3.2. Usted se compromete a proporcionar información precisa, actualizada y completa durante el proceso de registro.",
+          "item3": "3.3. Usted es responsable de mantener la confidencialidad de su cuenta y contraseña."
+        }
+      },
+      "section4": {
+        "title": "4. Restricciones Geográficas",
+        "content": {
+          "item1": "4.1. Nuestra Plataforma y servicios no están disponibles en países que carecen de claridad regulatoria respecto al comercio de criptomonedas y mercados de predicciones.",
+          "item2": "4.2. Nos reservamos el derecho de restringir o prohibir el acceso a nuestra Plataforma desde cualquier jurisdicción a nuestra entera discreción.",
+          "item3": "4.3. Al acceder o utilizar nuestra Plataforma, usted declara y garantiza que no se encuentra en, bajo el control de, o es un residente de ningún país o jurisdicción restringida.",
+          "item4": "4.4. Podemos utilizar la identificación de direcciones IP u otras tecnologías de geolocalización para hacer cumplir estas restricciones."
+        }
+      },
+      "section5": {
+        "title": "5. Reglas de la Plataforma y Conducta del Usuario",
+        "content": {
+          "item1": "5.1. Usted acepta no:",
+          "item2": "a) Utilizar la Plataforma para cualquier propósito ilegal.",
+          "item3": "b) Manipular o intentar manipular cualquier Mercado de Predicciones.",
+          "item4": "c) Utilizar múltiples cuentas para eludir las reglas o límites de la Plataforma.",
+          "item5": "d) Participar en cualquier forma de manipulación de mercado o uso de información privilegiada.",
+          "item6": "e) Acosar, abusar o dañar a otro usuario.",
+          "item7": "f) Hacerse pasar por otra persona o entidad o falsear su afiliación con cualquier persona o entidad.",
+          "item8": "5.2. Nos reservamos el derecho de suspender o terminar su cuenta por cualquier violación de estas reglas."
+        }
+      },
+      "section6": {
+        "title": "6. Mercados de Predicciones y Comercio",
+        "content": {
+          "item1": "6.1. Todas las predicciones y operaciones son definitivas una vez ejecutadas.",
+          "item2": "6.2. No garantizamos la precisión de ninguna información proporcionada en la Plataforma.",
+          "item3": "6.3. Usted es el único responsable de comprender los riesgos asociados con la participación en los Mercados de Predicciones.",
+          "item4": "6.4. Nos reservamos el derecho de anular cualquier operación o predicción que creamos que se haya realizado por error o en violación de estos Términos."
+        }
+      },
+      "section7": {
+        "title": "7. Tarifas y Pagos",
+        "content": {
+          "item1": "7.1. Podemos cobrar tarifas por ciertos servicios en la Plataforma. Todas las tarifas serán claramente divulgadas.",
+          "item2": "7.2. Usted es responsable de todos los impuestos asociados con su uso de la Plataforma.",
+          "item3": "7.3. Todos los pagos son definitivos y no reembolsables, a menos que lo exija la ley."
+        }
+      },
+      "section8": {
+        "title": "8. Propiedad Intelectual",
+        "content": "8.1. La Plataforma y su contenido original, características y funcionalidades son propiedad de [VO Tech] y están protegidos por derechos de autor, marcas registradas, patentes, secretos comerciales y otras leyes de propiedad intelectual o derechos de propiedad internacionales."
+      },
+      "section9": {
+        "title": "9. Contenido de Usuario",
+        "content": {
+          "item1": "9.1. Usted conserva todos los derechos sobre cualquier contenido que envíe, publique o muestre en o a través de la Plataforma.",
+          "item2": "9.2. Al publicar contenido, usted nos otorga una licencia no exclusiva, mundial y libre de regalías para usar, modificar, realizar públicamente, exhibir públicamente, reproducir y distribuir dicho contenido en y a través de la Plataforma."
+        }
+      },
+      "section10": {
+        "title": "10. Privacidad",
+        "content": "10.1. El uso que usted haga de la Plataforma también está regido por nuestra Política de Privacidad, que se incorpora a estos Términos por referencia."
+      },
+      "section11": {
+        "title": "11. Enlaces y Contenido de Terceros",
+        "content": "11.1. La Plataforma puede contener enlaces a sitios web o servicios de terceros que no son propiedad ni están controlados por nosotros. No tenemos control sobre, y no asumimos ninguna responsabilidad por, el contenido, las políticas de privacidad o las prácticas de sitios web o servicios de terceros."
+      },
+      "section12": {
+        "title": "12. Renuncia de Garantías",
+        "content": {
+          "item1": "12.1. La Plataforma se proporciona \"TAL CUAL\" y \"SEGÚN DISPONIBILIDAD\", sin ninguna garantía de ningún tipo, ya sea expresa o implícita.",
+          "item2": "12.2. No garantizamos que la Plataforma será ininterrumpida, oportuna, segura o libre de errores."
+        }
+      },
+      "section13": {
+        "title": "13. Limitación de Responsabilidad",
+        "content": "13.1. En la medida máxima permitida por la ley, no seremos responsables de ningún daño indirecto, incidental, especial, consecuente o punitivo, o cualquier pérdida de beneficios o ingresos."
+      },
+      "section14": {
+        "title": "14. Indemnización",
+        "content": "14.1. Usted acepta defender, indemnizar y mantener indemne a [VO Tech] y sus directores, empleados y agentes, de y contra cualquier reclamo, responsabilidad, daño, pérdida y gasto."
+      },
+      "section15": {
+        "title": "15. Cambios en la Plataforma y los Términos",
+        "content": {
+          "item1": "15.1. Nos reservamos el derecho de modificar o descontinuar, temporal o permanentemente, la Plataforma o cualquier servicio al que se conecta, con o sin previo aviso.",
+          "item2": "15.2. Podemos revisar estos Términos de vez en cuando. La versión más actual siempre estará disponible en la Plataforma."
+        }
+      },
+      "section16": {
+        "title": "16. Ley Aplicable y Resolución de Disputas",
+        "content": {
+          "item1": "16.1. Estos Términos se regirán e interpretarán de acuerdo con las leyes de la República de Malta, sin tener en cuenta sus disposiciones sobre conflictos de leyes.",
+          "item2": "16.2. Cualquier disputa que surja de o esté relacionada con estos Términos o la Plataforma será resuelta mediante arbitraje vinculante."
+        }
+      },
+      "section17": {
+        "title": "17. Divisibilidad",
+        "content": "17.1. Si alguna disposición de estos Términos se considera inejecutable o inválida, dicha disposición será cambiada e interpretada para lograr los objetivos de dicha disposición en la mayor medida posible según la ley aplicable, y las disposiciones restantes continuarán en pleno vigor y efecto."
+      },
+      "section18": {
+        "title": "18. Acuerdo Completo",
+        "content": "18.1. Estos Términos constituyen el acuerdo completo entre usted y [VO Tech] con respecto a su uso de la Plataforma y reemplazan todos los acuerdos y entendimientos previos."
+      },
+      "section19": {
+        "title": "19. Información de Contacto",
+        "content": "Si tiene alguna pregunta sobre estos Términos, por favor contáctenos en contact@pollo.lol."
+      }
+    }
+  },
+  "PrivacyPage": {
+    "title": "Política de Privacidad",
+    "sections": {
+      "section1": {
+        "title": "1. Introducción",
+        "content": "VO Tech (\"nosotros\", \"nuestro\" o \"nos\"), una empresa registrada en la República de Malta, se compromete a proteger la privacidad y la seguridad de su información personal. Esta Política de Privacidad describe cómo recopilamos, usamos, divulgamos y protegemos su información cuando utiliza nuestros servicios, incluido nuestro sitio web pollo.lol y las aplicaciones relacionadas (colectivamente, los \"Servicios\"). Cumplimos con el Reglamento General de Protección de Datos (GDPR) y otras leyes de protección de datos aplicables. Al utilizar nuestros Servicios, usted acepta las prácticas de datos descritas en esta política."
+      },
+      "section2": {
+        "title": "2. Información que Recopilamos",
+        "subsections": {
+          "subsection1": {
+            "title": "2.1 Datos Personales",
+            "list": {
+              "item1": "Dirección de Billetera: Cuando inicie sesión utilizando su billetera de criptomonedas, recopilamos su dirección pública de billetera.",
+              "item2": "Correo Electrónico (Opcional): Si elige participar en nuestro tablero de clasificación, recopilamos su dirección de correo electrónico."
+            }
+          },
+          "subsection2": {
+            "title": "2.2 Información Recopilada Automáticamente",
+            "list": {
+              "item1": "Dirección IP",
+              "item2": "Tipo de navegador",
+              "item3": "Tipo de dispositivo",
+              "item4": "Sistema operativo"
+            },
+            "content": "Esta información se utiliza para mantener la seguridad y el funcionamiento de nuestros Servicios, así como para fines analíticos."
+          },
+          "subsection3": {
+            "title": "2.3 Información que No Recopilamos",
+            "list": {
+              "item1": "Claves privadas o frases de recuperación",
+              "item2": "Información financiera más allá de los datos de transacciones visibles en la blockchain",
+              "item3": "Información de identificación personal (a menos que se proporcione voluntariamente para características específicas, como el acceso al tablero de clasificación)"
+            }
+          }
+        }
+      },
+      "section3": {
+        "title": "3. Cómo Usamos su Información",
+        "list": {
+          "item1": "Proveer y mantener nuestros Servicios",
+          "item2": "Permitirle participar en funciones interactivas de nuestros Servicios, como el tablero de clasificación",
+          "item3": "Monitorear el uso de nuestros Servicios",
+          "item4": "Detectar, prevenir y abordar problemas técnicos",
+          "item5": "Cumplir con las obligaciones legales"
+        }
+      },
+      "section4": {
+        "title": "4. Base Legal para el Procesamiento de Datos Personales Según el GDPR",
+        "list": {
+          "item1": "Consentimiento: Usted ha dado su consentimiento claro para que procesemos sus datos personales con un propósito específico (por ejemplo, participación en el tablero de clasificación).",
+          "item2": "Contrato: El procesamiento es necesario para un contrato que tenemos con usted o porque nos ha solicitado tomar medidas específicas antes de entrar en un contrato.",
+          "item3": "Intereses Legítimos: El procesamiento es necesario para nuestros intereses legítimos o los intereses legítimos de un tercero, a menos que haya una buena razón para proteger sus datos personales que prevalezca sobre esos intereses legítimos."
+        }
+      },
+      "section5": {
+        "title": "5. Retención de Datos",
+        "content": "Retendremos su dirección de billetera durante el tiempo necesario para proporcionar nuestros Servicios. Si proporciona una dirección de correo electrónico para participar en el tablero de clasificación, la retendremos hasta que solicite su eliminación o su cuenta se vuelva inactiva."
+      },
+      "section6": {
+        "title": "6. Transferencia de Datos",
+        "content": "Su información, incluidos los datos personales, puede transferirse a — y mantenerse en — computadoras ubicadas fuera de su estado, provincia, país u otra jurisdicción gubernamental donde las leyes de protección de datos pueden diferir de las de su jurisdicción. Si se encuentra fuera de Malta y elige proporcionarnos información, tenga en cuenta que transferimos los datos, incluidos los datos personales, a Malta y los procesamos allí. Su consentimiento a esta Política de Privacidad seguido de su envío de dicha información representa su acuerdo a esa transferencia."
+      },
+      "section7": {
+        "title": "7. Divulgación de Datos",
+        "content": "No vendemos, intercambiamos ni alquilamos su información personal a terceros. Podemos compartir información demográfica genérica no vinculada a ninguna información de identificación personal sobre los visitantes y usuarios con nuestros socios comerciales, afiliados de confianza y anunciantes para los propósitos descritos anteriormente."
+      },
+      "section8": {
+        "title": "8. Seguridad de los Datos",
+        "content": "Priorizamos la seguridad de sus datos, pero recuerde que ningún método de transmisión por Internet o método de almacenamiento electrónico es 100% seguro. Si bien nos esforzamos por utilizar medios comercialmente aceptables para proteger sus datos personales, no podemos garantizar su seguridad absoluta."
+      },
+      "section9": {
+        "title": "9. Sus Derechos de Protección de Datos Bajo el GDPR",
+        "list": {
+          "item1": "El derecho de acceso, actualización o eliminación de la información que tenemos sobre usted",
+          "item2": "El derecho de rectificación",
+          "item3": "El derecho de oposición",
+          "item4": "El derecho de restricción",
+          "item5": "El derecho a la portabilidad de los datos",
+          "item6": "El derecho a retirar el consentimiento"
+        }
+      },
+      "section10": {
+        "title": "10. Cookies y Tecnologías de Seguimiento",
+        "content": "Utilizamos cookies y tecnologías de seguimiento similares para rastrear la actividad en nuestros Servicios y retener cierta información. Puede instruir a su navegador para que rechace todas las cookies o para que indique cuándo se está enviando una cookie."
+      },
+      "section11": {
+        "title": "11. Cambios a Esta Política de Privacidad",
+        "content": "Podemos actualizar nuestra Política de Privacidad de vez en cuando. Le notificaremos cualquier cambio publicando la nueva Política de Privacidad en esta página y actualizando la fecha de \"Última Actualización\"."
+      },
+      "section12": {
+        "title": "12. Contáctenos",
+        "content": "Si tiene alguna pregunta sobre esta Política de Privacidad, comuníquese con nosotros en contact@pollo.lol."
+      }
+    }
+  }
+}
